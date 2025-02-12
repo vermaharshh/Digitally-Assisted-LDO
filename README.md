@@ -15,6 +15,7 @@ Link to the Reffered
 
 ## DA-LDO Architecture  
 
+<img src="assets/architecture.png](https://github.com/vermaharshh/Digitally-Assisted-LDO/blob/main/Media/schematic.png" alt="DA-LDO Architecture" width="500">
 
 ## Research Insights  
 - DA-LDO was *first proposed for DRAM voltage regulation*, later adapted for SoCs.  
